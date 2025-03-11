@@ -1,0 +1,13 @@
+{
+    "name": "Website to Figma Converter",
+    "id": "website-to-figma-converter",
+    "api": "1.0.0",
+    "main": "code.js",
+    "editorType": ["figma"],
+    "menu": [
+      {
+        "name": "Convert Website to Figma",
+        "command": "convert"
+      }
+    ]
+  }
